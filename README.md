@@ -1,10 +1,9 @@
 # ChatGPTPromptEngineering
 ChatGPT Prompt Engineering for Developers by DeepLearning.ai
-# ChatGPT - Prompt Engineering for Developers :robot: :pencil:
 
 # ChatGPT - Prompt Engineering for Developers :robot: :pencil:
 
-![ChatGPT Logo](https://openai.com/assets/images/logos/openai-logo-primary.png)
+![ChatGPT Logo]([https://github.com/openai/baselines/blob/master/data/logo.jpg])
 
 Welcome to the ChatGPT - Prompt Engineering for Developers repository! 🎉 This repository is your gateway to a world of endless possibilities with large language models (LLMs). Get ready to unleash your creativity and build powerful applications that were once only dreams.
 
